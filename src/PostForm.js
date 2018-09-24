@@ -24,7 +24,7 @@ class PostForm extends Component {
           <input
             required
             type="text"
-            placeholder="Enter Post Title"
+            placeholder="Please Enter Post Title"
             ref={input => (this.getTitle = input)}
           />
           <br />
